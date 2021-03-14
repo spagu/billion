@@ -7,8 +7,10 @@
 
 ## 2.52.d46
 Date: Mon Jan 25, 2021
+
 * Fixed SMNP WALK BUG Issue
 * Fixed DNS-O-Matic dynamic DNS change to HTTPS Issue
+
 Link: http://forum.billion.uk.com/viewtopic.php?f=20&t=32278&sid=c740e9a7c4a123cd80782d75427a2f26
 
 
@@ -29,19 +31,21 @@ Link: http://forum.billion.uk.com/viewtopic.php?f=20&t=32278&sid=c740e9a7c4a123c
 no information
 
 ## 2.52.d31
-Broadcom drivers have been updated with a date of May 2nd 2018.
-seems stable to me WiFi 2.4 & 5gHz and no unusual line drops, not sure what the updates are for I know we are still waiting for that, not fixed the talktalk internet LED or the dreaded 5gHz LED that thinks its a car indicator.
+> Broadcom drivers have been updated with a date of May 2nd 2018.
+> seems stable to me WiFi 2.4 & 5gHz and no unusual line drops, not sure what the updates are for I know we are still waiting for that, not fixed the talktalk internet LED or the dreaded 5gHz LED that thinks its a car indicator.
 
-## 2.52.d28,
-1. Added Open VPN server support (dial into 8900AX-2400)
-2. Added Open VPN Client support with Nord VPN (dial out to Nord VPN server)
+## 2.52.d28
+
+* Added Open VPN server support (dial into 8900AX-2400)
+* Added Open VPN Client support with Nord VPN (dial out to Nord VPN server)
 
 ## 2.52.d27
-08 February 2018 11:07 AM
-1. “Support DHCP Server option 67”.
-2. “Fix router not clearing UPNP ports on Virtual Server page”.
-3. “Support VPN connection with provider Nord VPN server”.
-4. “Enhance DHCP page list on new code base 4.16L05”
+Date: 08 February 2018 11:07 AM
+
+* “Support DHCP Server option 67”.
+* “Fix router not clearing UPNP ports on Virtual Server page”.
+* “Support VPN connection with provider Nord VPN server”.
+* “Enhance DHCP page list on new code base 4.16L05”
 
 ## 2.52.d24
 1. “Add new wireless driver = 7.14.164.20.cpe4.16L05.0-kdb”
