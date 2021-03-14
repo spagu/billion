@@ -1,13 +1,15 @@
 # Bipac 8900AX-2400 Firmware Release notes and links
 
 ## 2.52.d46a2
-1. “User can generate random CA on OpenVPN server”.
-2. “Added new OpenVPN HMAC Authentication for more security support for SHA256, SHA384, SHA512”.
-Link: 
+
+* “User can generate random CA on OpenVPN server”.
+* “Added new OpenVPN HMAC Authentication for more security support for SHA256, SHA384, SHA512”.
 
 ## 2.52.d46
-1. Fixed SMNP WALK BUG Issue
-2. Fixed DNS-O-Matic dynamic DNS change to HTTPS Issue
+Date: Mon Jan 25, 2021
+* Fixed SMNP WALK BUG Issue
+* Fixed DNS-O-Matic dynamic DNS change to HTTPS Issue
+Link: http://forum.billion.uk.com/viewtopic.php?f=20&t=32278&sid=c740e9a7c4a123cd80782d75427a2f26
 
 
 ## 2.52.d41
