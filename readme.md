@@ -6,7 +6,7 @@ Release Notes :
 2. “Added new OpenVPN HMAC Authentication for more security support for SHA256, SHA384, SHA512”.
 Link: 
 
-Attached is firmware 2.52.d46
+2.52.d46
 Release notes
 Fixed SMNP WALK BUG Issue
 Fixed DNS-O-Matic dynamic DNS change to HTTPS Issue
