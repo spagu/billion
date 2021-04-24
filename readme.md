@@ -1,5 +1,12 @@
 # Bipac 8900AX-2400 Firmware Release notes and links
 
+## 2.52.d46_ddns3
+Date: Tue Mar 23, 2021 11:21 am
+
+* Newer firmware versions for the Bipac 8900AX-2400 and Bipac 8900AX-1600R2 which resolves connectivity issues with DNS-O-Matic
+
+Link: https://www.forum.billion.uk.com/viewtopic.php?f=20&t=32830
+
 ## 2.52.d46a2
 Date: Tue Mar 09, 2021 10:08 am
 
