@@ -1,5 +1,16 @@
 # Bipac 8900AX-2400 Firmware Release notes and links
 
+## 2.52.d48
+Date: Tue May 11, 2021 10:39 am
+
+* “Fixed DNS-O-Matic dynamic DNS with “ssl connect error” issue”.
+* “Fixed Sky VDSL Option 61 WAN delay when DHCP lease is renewed” (causes delay/lag every hour).
+* “Users can now generate random CA on OpenVPN server”.
+* “Added new OpenVPN HMAC Authentication for more security support for SHA256, SHA384, SHA512”.
+
+Link: http://billion.uk.com/firmware/89xx/8900ax-2400/Zcomax8900AX2400_2.52.d48.afw
+
+
 ## 2.52.d46_ddns3
 Date: Tue Mar 23, 2021 11:21 am
 
